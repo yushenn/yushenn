@@ -13,7 +13,7 @@ ICT undergraduate at the **Singapore University of Social Sciences**, with a dip
 | --- | --- | --- |
 | **[Repwise](https://github.com/yushenn/Repwise)** · [live](https://yushenn.github.io/Repwise/) | Workout tracker with a built-in coach: training plans, progress charts and automatic personal-record detection. Works offline, with optional accounts and cloud sync. | JavaScript, Python, Flask, MongoDB |
 | **[SUSS Timetable Planner](https://github.com/yushenn/eCR)** · [live](https://yushenn.github.io/eCR/) | Reads the official 300+ page timetable PDFs in the browser and suggests clash-free timetables. | JavaScript, PDF.js |
-| **[BTO Explorer](https://github.com/yushenn/bto-explorer)** · [live](https://yushenn.github.io/bto-explorer/) | An independent map for young couples: compare HDB towns, then click any of 10,800+ blocks for its completion year and recent resale prices, plus BTO launch prices and MRT access. | Python, pandas, SQL, Shapely, Leaflet |
+| **[BTO Explorer](https://github.com/yushenn/bto-explorer)** · [live](https://yushenn.github.io/bto-explorer/) | An independent map for young couples: compare HDB towns, then click any of 10,800+ blocks for its completion year, resale prices, nearest MRT and schools nearby. Updates itself monthly. | Python, pandas, SQL, Shapely, Leaflet, GitHub Actions |
 | **[Portfolio](https://github.com/yushenn/matthew-os)** · [live](https://yushenn.github.io/matthew-os/) | My personal site, with case studies for each project. | HTML, CSS, JavaScript |
 
 ## Skills
