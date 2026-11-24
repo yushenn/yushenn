@@ -13,7 +13,7 @@ ICT undergraduate at the **Singapore University of Social Sciences**, with a dip
 | --- | --- | --- |
 | **[Repwise](https://github.com/yushenn/Repwise)** · [live](https://yushenn.github.io/Repwise/) | Workout tracker with a built-in coach: training plans, progress charts and automatic personal-record detection. Works offline, with optional accounts and cloud sync. | JavaScript, Python, Flask, MongoDB |
 | **[SUSS Timetable Planner](https://github.com/yushenn/eCR)** · [live](https://yushenn.github.io/eCR/) | Reads the official 300+ page timetable PDFs in the browser and suggests clash-free timetables. | JavaScript, PDF.js |
-| **[HDB Resale Insights](https://github.com/yushenn/hdb-resale-insights)** · [live](https://yushenn.github.io/hdb-resale-insights/) | What drives HDB resale prices? 245,000+ sales analysed, with a dashboard and a fair-price estimator. | Python, pandas, SQL, regression |
+| **[BTO Explorer](https://github.com/yushenn/bto-explorer)** · [live](https://yushenn.github.io/bto-explorer/) | An interactive map for young couples comparing HDB towns, BTO launch prices, resale prices, MRT stations and hawker centres. | Python, pandas, SQL, Shapely, Leaflet |
 | **[Portfolio](https://github.com/yushenn/matthew-os)** · [live](https://yushenn.github.io/matthew-os/) | My personal site, with case studies for each project. | HTML, CSS, JavaScript |
 
 ## Skills
